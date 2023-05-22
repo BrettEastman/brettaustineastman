@@ -1,8 +1,6 @@
 "use client";
-import Image from "next/image";
 import Link from "next/link";
-import Headshot from "../public/docs/images/BrettHeadshot 2.jpg";
-import { AiOutlineMenu, AiOutlineClose, AiOutlineInstagram, AiOutlineLinkedin, AiOutlineGithub } from "react-icons/ai";
+import { AiOutlineMenu, AiOutlineClose, AiOutlineInstagram, AiOutlineLinkedin, AiOutlineGithub, AiOutlineHome } from "react-icons/ai";
 import { useState } from "react";
 
 export default function Navbar() {
@@ -14,16 +12,10 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="fixed w-full h-24 shadow-xl bg-white font-mono">
+      <nav className="w-full h-24 shadow-xl bg-white font-raleway">
         <div className="flex justify-between items-center h-full w-full px-4 2xl: px-16">
           <Link href={"/"}>
-            <Image
-              src={Headshot}
-              alt={"Brett Eastman headshot"}
-              width="90"
-              height="90"
-              className="cursor-pointer"
-            />
+            <AiOutlineHome size={50} className="cursor-pointer"/>
           </Link>
           <div className="hidden sm:flex">
             <ul className="hidden sm:flex">

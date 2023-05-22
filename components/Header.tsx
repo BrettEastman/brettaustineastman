@@ -1,5 +1,7 @@
 export default function Header() {
   return (
-    <div>Brett Austin Eastman</div>
+    <header>
+      <h1 className="flex justify-around uppercase text-5xl p-8">Brett Austin Eastman</h1>
+    </header>
   )
 }
