@@ -15,7 +15,7 @@ export default function Navbar() {
       <nav className="w-full h-24 shadow-xl bg-white font-raleway">
         <div className="flex justify-between items-center h-full w-full px-4 2xl: px-16">
           <Link href={"/"}>
-            <AiOutlineHome size={50} className="cursor-pointer"/>
+            <AiOutlineHome size={50} className="cursor-pointer ml-12"/>
           </Link>
           <div className="hidden sm:flex">
             <ul className="hidden sm:flex">

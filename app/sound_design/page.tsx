@@ -25,8 +25,8 @@ export default function SoundDesign() {
             including Los Angeles based artists, western re-enactors, and
             regional American Indians.
           </p>
-          <div className="mb-8"><a className={aClass} href="https://www.amazon.com/Murder-Hi-Good-David-Nordstrom/dp/B08W8W7BRF">Watch</a> on Amazon</div>
-          <div className="mb-8"><a className={aClass} href="https://www.imdb.com/title/tt2182390/">The Murder of Hi Good</a> on IMDB.</div>
+          <div className="mb-8"><a className={aClass} href="https://www.amazon.com/Murder-Hi-Good-David-Nordstrom/dp/B08W8W7BRF"><em>Watch</em></a> on Amazon</div>
+          <div className="mb-8"><a className={aClass} href="https://www.imdb.com/title/tt2182390/"><em>The Murder of Hi Good</em></a> on IMDB.</div>
         </div>
       </div>
     </>
