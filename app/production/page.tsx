@@ -27,46 +27,38 @@ export default function Production() {
           <ul className={ulClass}>
             <a className={aClass} href="https://youtu.be/1IAtSSf4la8?t=370"><em>Andy Human and the Reptoids – tour tape ’16</em></a>, cassette (2016)
           </ul>
-
-
           <ul className={ulClass}>
-            Luke Sweeney – Red Hot Demands/Outer Limb, 7″ single (Aerobic International 2016)
+            <a className={aClass} href="https://youtu.be/99-wbjzeIu4"><em>Luke Sweeney – Red Hot Demands/Outer Limb</em></a>, 7″ single (Aerobic International 2016)
           </ul>
           <ul className={ulClass}>
-            Andy Human and The Reptoids – Sarcastic/Shit And Grit, 7″ single (Goodbye Boozy 2016)
+            <a className={aClass} href="https://youtu.be/cxE2yLfjLwc"><em>Andy Human and The Reptoids – Sarcastic/Shit And Grit</em></a>, 7″ single (Goodbye Boozy 2016)
           </ul>
           <ul className={ulClass}>
-            Andy Human and The Reptoids – S/T, full-length LP (S-S/Sol Re Sol 2015)
+            <a className={aClass} href="https://youtu.be/cR47VnZcmn8"><em>Andy Human and The Reptoids – S/T</em></a>, full-length LP (S-S/Sol Re Sol 2015)
           </ul>
           <ul className={ulClass}>
-            Kephera Moon, aka Dragontime – S/T, cassette (2015)
+            <a className={aClass} href="https://dragontime.bandcamp.com/album/phantasmagoria"><em>Kephera Moon, aka Dragontime – S/T</em></a>, cassette (2015)
           </ul>
           <ul className={ulClass}>
-            Penny Machine – S/T, cassette (2014)
+            <a className={aClass} href="https://pennymachineoakland.bandcamp.com/album/s-t-tape"><em>Penny Machine – S/T</em></a>, cassette (2014)
           </ul>
           <ul className={ulClass}>
-            BAUS – Idol Minds, full-length LP (2014)
+            <a className={aClass} href="https://baus.bandcamp.com/album/idol-minds"><em>BAUS – Idol Minds</em></a>, full-length LP (2014)
           </ul>
           <ul className={ulClass}>
-            Luke Sweeney – Tie Mao To Mined, b-side to “Miss Me” single (2014)
+            <a className={aClass} href="https://youtu.be/pvzSlsU12oE"><em>Luke Sweeney – Tie Mao To Mined</em></a>, b-side to “Miss Me” single (2014)
           </ul>
           <ul className={ulClass}>
-            PANG – Young Professionals, 7″ EP (Grazer 2013)
+            <a className={aClass} href="https://soundcloud.com/grazer-records/pang-young-professionals"><em>PANG – Young Professionals</em></a>, 7″ EP (Grazer 2013)
           </ul>
           <ul className={ulClass}>
-            The Dick Burrill’s – Never Let Go (Pleonasm 2014)
+            <a className={aClass} href="https://freemusicarchive.org/music/The_Dick_Burrills/Never_Let_Go"><em>The Dick Burrill’s – Never Let Go</em></a> (Pleonasm 2014)
           </ul>
           <ul className={ulClass}>
-            The Dick Burrill’s – Dig Out ‘Ol Dick’s Records (Pleonasm 2012)
+            <a className={aClass} href="https://www.youtube.com/watch?v=M0UCe4tkGLk"><em>LENZ – Ways To End A Day</em></a>, full-length (1234Go! 2013)
           </ul>
           <ul className={ulClass}>
-            LENZ – Ways To End A Day, full-length (1234Go! 2013)
-          </ul>
-          <ul className={ulClass}>
-            LENZ – Under Neon, 12″ EP (Tic Tac Totally 2012)
-          </ul>
-          <ul className={ulClass}>
-            MONTRA – S/T, full-length (2010)
+            <a className={aClass} href="https://lenz.bandcamp.com/album/under-neon"><em>LENZ – Under Neon</em></a>, 12″ EP (Tic Tac Totally 2012)
           </ul>
         </div>
       </div>
