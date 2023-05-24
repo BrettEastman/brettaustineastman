@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import Headshot from "../public/docs/images/BrettB&W.jpg";
+// import Headshot from "../public/docs/images/BrettB&W.jpg";
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
       <h3 className="flex justify-around uppercase text-3xl p-8">Home</h3>
       <div className="flex justify-around">
         <Image
-          src={Headshot}
+          src="../public/docs/images/BrettB&W.jpg"
           width={700}
           height={700}
           alt="Picture of Brett Austin Eastman"
