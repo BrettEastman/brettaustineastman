@@ -10,7 +10,7 @@ export default function Production() {
             <a className={aClass} href="https://evernever-records.bandcamp.com/album/dragged-through-the-garden"><em>Preening – Dragged Through the Garden</em></a>, 12″ EP (Ever/Never Records – released on February 5, 2021)
           </ul>
           <ul className={ulClass}>
-            <a className={aClass} href="https://andyhumanthereptoids.bandcamp.com/album/psychic-sidekick?action=share&from=embed"><em>Andy Human and the Reptoids – Psychic Sidekick</em></a>, full-length LP (Total Punk – released on February 5, 2019)
+            <a className={aClass} href="https://andyhumanthereptoids.bandcamp.com/album/psychic-sidekick"><em>Andy Human and the Reptoids – Psychic Sidekick</em></a>, full-length LP (Total Punk – released on February 5, 2019)
           </ul>
           <ul className={ulClass}>
             <a className={aClass} href="https://soundcloud.com/upset-the-rhythm/the-world-hot-shopper"><em>The World – First World Record</em></a>, full-length LP (Upset the Rhythm/Lumpy 2017)
@@ -55,7 +55,7 @@ export default function Production() {
             <a className={aClass} href="https://freemusicarchive.org/music/The_Dick_Burrills/Never_Let_Go"><em>The Dick Burrill’s – Never Let Go</em></a> (Pleonasm 2014)
           </ul>
           <ul className={ulClass}>
-            <a className={aClass} href="https://www.youtube.com/watch?v=M0UCe4tkGLk"><em>LENZ – Ways To End A Day</em></a>, full-length (1234Go! 2013)
+            <a className={aClass} href="https://lenz.bandcamp.com/album/ways-to-end-a-day"><em>LENZ – Ways To End A Day</em></a>, full-length (1234Go! 2013)
           </ul>
           <ul className={ulClass}>
             <a className={aClass} href="https://lenz.bandcamp.com/album/under-neon"><em>LENZ – Under Neon</em></a>, 12″ EP (Tic Tac Totally 2012)
