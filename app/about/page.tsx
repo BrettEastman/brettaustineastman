@@ -51,15 +51,6 @@ export default function About() {
             by Bay Area underground bands including Preening, The World, Pang,
             Lenz, Baus, Penny Machine, Dancer, and Brian Glaze.
           </p>
-          <p className="mb-4">
-            As a performing rock musician, he cofounded, coproduced and played
-            bass in sci-fi punk band Andy Human and the Reptoids. He has worked
-            as a session musician in studios in the Bay Area, New York, and Los
-            Angeles, and he has toured throughout the United States and Europe
-            in various groups. As a recording engineer, he has produced records
-            by Bay Area underground bands including Preening, The World, Pang,
-            Lenz, Baus, Penny Machine, Dancer, and Brian Glaze.
-          </p>
           <div className="flex justify-around">
             <Image
               src={Headshot}
