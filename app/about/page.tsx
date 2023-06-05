@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Headshot from "../../public/docs/images/BrettFull.jpg";
+import Headshot from "../../public/images/BrettFull.jpg";
 
 export default function About() {
   return (
