@@ -14,8 +14,10 @@ export default function Navbar() {
     <>
       <nav className="w-full h-24 shadow-xl bg-white font-raleway">
         <div className="flex justify-between items-center h-full w-full px-4 2xl: px-16">
-          <Link href={"/"}>
-            <AiOutlineHome size={50} className="cursor-pointer ml-12"/>
+          <Link href={"/"} className="cursor-pointer ml-12">
+            <li className="uppercase hover:border-b text-xl list-none">
+              Home
+            </li>
           </Link>
           <div className="hidden sm:flex">
             <ul className="hidden sm:flex">
@@ -94,9 +96,15 @@ export default function Navbar() {
             </ul>
           </div>
           <div className="flex flex-row justify-around pt-10 items-center">
-            <AiOutlineLinkedin size={30} className="cursor-pointer"/>
-            <AiOutlineGithub size={30} className="cursor-pointer"/>
-            <AiOutlineInstagram size={30} className="cursor-pointer"/>
+            <a href="https://github.com/BrettEastman">
+              <AiOutlineGithub size={30} className="cursor-pointer"/>
+            </a>
+            <a href="https://www.linkedin.com/in/brett-austin-eastman/">
+              <AiOutlineLinkedin size={30} className="cursor-pointer"/>
+            </a>
+            <a href="https://www.instagram.com/brettaustineastman/">
+              <AiOutlineInstagram size={30} className="cursor-pointer"/>
+            </a>
           </div>
         </div>
       </nav>

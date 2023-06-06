@@ -39,8 +39,7 @@ export default function About() {
             over the years, of all different skill levels and ages, some of whom
             have been accepted to Ruth Asawa School of the Arts, and some have
             gone on to study music at university. He is an alumnus of the Walden
-            School’s Teacher Training institute for music teachers. To learn
-            more about Brett as music teacher, click here.
+            School’s Teacher Training institute for music teachers.
           </p>
           <p className="mb-4">
             As a performing rock musician, he cofounded, coproduced and played
