@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import Headshot from "../public/images/P1002198.JPG";
+import Headshot from "../public/images/P1002198.jpg";
 
 export default function Home() {
   return (
